@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 You can check <a href="https://rakaatmaja.github.io/">my personal website</a>
+- 🔭 You can check <a href="https://rakaatmaja.github.io/">my personal website</a> to find out about me
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning mobile development
 - 💞️ I want to collaborate in an organization
