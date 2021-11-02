@@ -5,7 +5,5 @@
 - 🌱 I’m currently learning mobile development
 - 💞️ I want to collaborate in an organization
 - 📫 You can reach me at my instagram [@imraka_a](https://instagram.com/imraka_a)
-<!---
-rakaatmaja/rakaatmaja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=rakaatmaja&show_icons=true)
