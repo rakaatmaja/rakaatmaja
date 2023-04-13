@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-- 🔭 You can check <a href="https://rakaatmaja.github.io/">my personal website</a> to find out about me
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning mobile development
-- 💞️ I want to collaborate in an organization
-- 📫 You can reach me at my instagram [@imraka_a](https://instagram.com/imraka_a)
+<p align="center">
+  <a href="https://instagram.com/imraka_a">
+    <img src="https://img.shields.io/instagram/follow/imraka_a?style=for-the-badge&label=%40imraka&logo=instagram&logoColor=pink&labelColor=black&color=7fff00">
+  </a>
+  <a href="https://www.linkedin.com/in/rakaatmaja/">
+    <img src="https://img.shields.io/badge/-raka%20atmaja-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+  <a href="mailto:rakaa.dev@gmail.com">
+    <img src="https://img.shields.io/badge/rakaa.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+</p>
 
 <a href="https://github.com/rakaatmaja">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rakaatmaja&count_private=true&show_icons=true&theme=chartreuse-dark" />
