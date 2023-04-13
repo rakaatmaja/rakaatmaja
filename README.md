@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://instagram.com/imraka_a">
-    <img src="https://img.shields.io/instagram/follow/imraka_a?style=for-the-badge&label=%40imraka&logo=instagram&logoColor=pink&labelColor=black&color=7fff00">
-  </a>
+     <img src="https://img.shields.io/badge/-raka%20atmaja-blue?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
+   </a>
   <a href="https://www.linkedin.com/in/rakaatmaja/">
-    <img src="https://img.shields.io/badge/-raka%20atmaja-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
+    <img src="https://img.shields.io/badge/-raka%20putra%20atmaja-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
   <a href="mailto:rakaa.dev@gmail.com">
     <img src="https://img.shields.io/badge/rakaa.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
