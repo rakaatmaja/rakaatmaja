@@ -7,8 +7,8 @@
   <a href="https://www.linkedin.com/in/rakaatmaja/">
     <img src="https://img.shields.io/badge/-raka%20putra%20atmaja-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="mailto:rakaa.dev@gmail.com">
-    <img src="https://img.shields.io/badge/rakaaa.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="mailto:raaka.dev@gmail.com">
+    <img src="https://img.shields.io/badge/raaka.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
   </a>
 </p>
 
