@@ -15,6 +15,18 @@
   </a>
 </p>
 
+### `$ whoami`
+
+```bash
+raka@github:~$ cat about.txt
+
+Computer Science graduate
+Currently building & learning
+Interested in software, systems & infrastructure
+
+> write less, do more.
+```
+
 ---
 
 ### 🛠️ Tech Stack
