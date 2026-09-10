@@ -4,21 +4,6 @@
 
 `developer` · `builder` · `tech enthusiast`
 
-<p align="center">
-  <a href="https://raaka.me">
-    <img src="https://img.shields.io/badge/-raaka.me-000000?style=for-the-badge&logo=About.me&color=blue">
-  </a>
-  <a href="https://www.linkedin.com/in/rakaatmaja/">
-    <img src="https://img.shields.io/badge/-raka%20putra%20atmaja-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=blue">
-  </a>
-  <a href="mailto:raaka.dev@gmail.com">
-    <img src="https://img.shields.io/badge/raaka.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=blue">
-  </a>
-</p>
-<a href="https://github.com/rakaatmaja">
-  <img src="https://komarev.com/ghpvc/?username=rakaatmaja&style=flat-square&color=000000&label=PROFILE+VIEWS" />
-</a>
-
 </div>
 
 ---
@@ -59,11 +44,18 @@ Interested in software, systems & infrastructure
 
 ### `connect()`
 
+<p align="center">
+  <a href="https://raaka.me">
+    <img src="https://img.shields.io/badge/-raaka.me-000000?style=for-the-badge&logo=About.me&color=blue">
+  </a>
+  <a href="https://www.linkedin.com/in/rakaatmaja/">
+    <img src="https://img.shields.io/badge/-raka%20putra%20atmaja-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=blue">
+  </a>
+  <a href="mailto:raaka.dev@gmail.com">
+    <img src="https://img.shields.io/badge/raaka.dev@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=blue">
+  </a>
+</p>
 <a href="https://github.com/rakaatmaja">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://komarev.com/ghpvc/?username=rakaatmaja&style=flat-square&color=000000&label=PROFILE+VIEWS" />
 </a>
-<a href="https://linkedin.com/in/rakaatmaja">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00AEFF">
-</a>
-
 </div>
