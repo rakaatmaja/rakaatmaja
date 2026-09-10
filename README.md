@@ -11,9 +11,6 @@
   <a href="https://raaka.me">
     <img src="https://img.shields.io/badge/-raaka.me-000000?style=for-the-badge&logo=About.me&logoColor=00AEFF&labelColor=black&color=black">
   </a>
-  <a href="https://instagram.com/imraka_a">
-     <img src="https://img.shields.io/badge/-raka%20atmaja-blue?style=for-the-badge&logo=Instagram&logoColor=00AEFF&labelColor=black&color=black">
-   </a>
   <a href="https://www.linkedin.com/in/rakaatmaja/">
     <img src="https://img.shields.io/badge/-raka%20putra%20atmaja-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
   </a>
@@ -27,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,firebase,mysql,git,linux,grafana,prometheus,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,firebase,mysql,git,linux,grafana,prometheus," />
 </p>
 
 ---
