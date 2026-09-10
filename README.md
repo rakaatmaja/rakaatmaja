@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
-<h1 align="center">Hi, I'm Raka Putra Atmaja 👋</h1>
-<h3 align="center">a.k.a Xilent — Mobile & Web Developer</h3>
+<h1 align="center">Hi, I'm Raka👋</h1>
+<h3 align="center">a.k.a Xilent</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+%26+Web+Developer;Flutter+%7C+Laravel+%7C+Linux+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%F0%9F%91%8B&font=Fira%20Code&center=true&width=440&height=45&color=00AEFF&vCenter=true&size=22" alt="Typing SVG" />
