@@ -4,10 +4,6 @@
 <h3 align="center">a.k.a Xilent</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mobile+%26+Web+Developer;Flutter+%7C+Laravel+%7C+Linux+Enthusiast;Always+learning+something+new;Welcome+to+my+profile+%F0%9F%91%8B&font=Fira%20Code&center=true&width=440&height=45&color=00AEFF&vCenter=true&size=22" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://raaka.me">
     <img src="https://img.shields.io/badge/-raaka.me-000000?style=for-the-badge&logo=About.me&logoColor=00AEFF&labelColor=black&color=black">
   </a>
