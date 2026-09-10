@@ -65,8 +65,5 @@ Interested in software, systems & infrastructure
 <a href="https://linkedin.com/in/rakaatmaja">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00AEFF">
 </a>
-<a href="https://instagram.com/imraka_a">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F">
-</a>
 
 </div>
