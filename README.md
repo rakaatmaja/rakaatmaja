@@ -1,6 +1,6 @@
 <div align="center">
 
-# Raka Atmaja
+<h1 align="center">Hi, I'm Raka👋</h1>
 
 `developer` · `builder` · `tech enthusiast`
 
