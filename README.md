@@ -3,9 +3,11 @@
 <h1 align="center">Hi, I'm Raka👋</h1>
 
 `developer` · `builder` · `tech enthusiast`
-<a href="https://github.com/rakaatmaja">
+<p align="center">
+  <a href="https://github.com/rakaatmaja">
   <img src="https://komarev.com/ghpvc/?username=rakaatmaja&style=flat-square&color=000000&label=PROFILE+VIEWS" />
 </a>
+</p>
 </div>
 
 ---
