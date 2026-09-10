@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi, I'm Raka👋</h1>
 <h3 align="center">a.k.a Xilent</h3>
+<a href="https://github.com/rakaatmaja">
+  <img src="https://komarev.com/ghpvc/?username=rakaatmaja&style=flat-square&color=000000&label=PROFILE+VIEWS" />
+</a>
 
 <p align="center">
   <a href="https://raaka.me">
@@ -53,7 +56,3 @@ Interested in software, systems & infrastructure
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakaatmaja&style=for-the-badge&color=00AEFF" alt="profile views" />
-</p>
